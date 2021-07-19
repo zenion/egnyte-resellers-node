@@ -860,7 +860,7 @@
     prettier "^2.3.0"
     typescript "^4.0.5"
 
-"@pliancy/semantic-release-config-npm@^2.1.0":
+"@pliancy/semantic-release-config-npm@2.1.0":
   version "2.1.0"
   resolved "https://registry.yarnpkg.com/@pliancy/semantic-release-config-npm/-/semantic-release-config-npm-2.1.0.tgz#7765d272880a2188366bf08b6cd937e82ef8e497"
   integrity sha512-jgWY3Z0StJdl+mJzcS/1qBJZjuspP/ZDPTk6SWfxsaz1JmEzEYT8USMVHP2jyFPUKWlCSB3OG+YnNaCPcoAgqA==
@@ -5338,7 +5338,7 @@ npm-registry-fetch@^11.0.0:
     minizlib "^2.0.0"
     npm-package-arg "^8.0.0"
 
-npm-run-all@^4.1.5:
+npm-run-all@4.1.5:
   version "4.1.5"
   resolved "https://registry.yarnpkg.com/npm-run-all/-/npm-run-all-4.1.5.tgz#04476202a15ee0e2e214080861bff12a51d98fba"
   integrity sha512-Oo82gJDAVcaMdi3nuoKFavkIHBRVqQ1qvMb+9LHk/cF4P6B2m8aP04hGf7oL6wZ9BuGwX1onlLhpuoofSyoQDQ==
@@ -5826,7 +5826,7 @@ pify@^4.0.1:
   resolved "https://registry.yarnpkg.com/pify/-/pify-4.0.1.tgz#4b2cd25c50d598735c50292224fd8c6df41e3231"
   integrity sha512-uB80kBFb/tfd68bVleG9T5GGsGPjJrLAUpR5PZIrhBnIaRTQRjqdJSsIKkOP6OAIFbj7GOrcudc5pNjZ+geV2g==
 
-pinst@^2.1.6:
+pinst@2.1.6:
   version "2.1.6"
   resolved "https://registry.yarnpkg.com/pinst/-/pinst-2.1.6.tgz#8d968b8ec1dac5dddcfc976c735592dbec58b42c"
   integrity sha512-B4dYmf6nEXg1NpDSB+orYWvKa5Kfmz5KzWC29U59dpVM4S/+xp0ak/JMEsw04UQTNNKps7klu0BUalr343Gt9g==
